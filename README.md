@@ -55,13 +55,11 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🏙️ 3D Contribution Skyline
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harshiig-12/harshiig-12/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Skyline" />
 </div>
-
----
 
 ## 🌐 Connect With Me
 
