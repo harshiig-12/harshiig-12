@@ -89,7 +89,7 @@ Track spending, set budgets and stay on top of your money through a fast, respon
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 #### 🏥 [MediQueue](https://github.com/harshiig-12/MediQueue) &nbsp; ![Completed](https://img.shields.io/badge/status-completed-22c55e?style=flat-square)
 
@@ -102,13 +102,20 @@ A team-built Java desktop application that manages clinic appointments, queue to
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
-#### 🧩 [EduGrid](https://github.com/harshiig-12/EduGrid) &nbsp; ![Completed](https://img.shields.io/badge/status-completed-22c55e?style=flat-square)
+### 🗓️ Up Next
+
+<table>
+<tr>
+<td valign="top">
+
+#### 🧩 [EduGrid](https://github.com/harshiig-12/EduGrid) &nbsp; ![Planned](https://img.shields.io/badge/status-planned-6366f1?style=flat-square)
 
 **Conflict-free scheduling with graph coloring and backtracking.**
 
-An algorithm-driven scheduler written in C, paired with a React front end so timetables are easy to view and manage.
+A planned algorithm-driven scheduler in C with a React front end, so conflict-free timetables are easy to view and manage.
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -130,23 +137,13 @@ An algorithm-driven scheduler written in C, paired with a React front end so tim
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=harshiig-12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiig-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
 
-<br/>
-
-### 🔥 Contribution Streak
+<h3 align="center">🔥 Contribution Streak</h3>
 
 <img src="https://streak-stats.demolab.com?user=harshiig-12&theme=tokyonight&hide_border=true&background=0d1117&stroke=8b5cf6&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc" alt="Contribution streak" />
 
-<br/>
+<h3 align="center">📈 Contribution Calendar</h3>
 
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshiig-12&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&color=c084fc&line=8b5cf6&point=ffffff" width="100%" alt="Contribution graph" />
-
-<br/>
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshiig-12&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+<img src="https://ghchart.rshah.org/8b5cf6/harshiig-12" width="90%" alt="Contribution calendar" />
 
 </div>
 
