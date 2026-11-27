@@ -1,13 +1,11 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24,30&height=270&section=header&text=Harshal%20Garg&fontSize=66&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Aspiring%20Full%20Stack%20Developer&descSize=22&descAlignY=60" alt="Harshal Garg" width="100%"/>
+<img src="assets/hero.svg" alt="Harshal Garg - Aspiring Full Stack Developer" width="100%"/>
 
-<a href="https://github.com/harshiig-12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=780&height=50&lines=Building+clean%2C+fast+and+useful+software;Native+desktop+apps+with+C%2B%2B+%26+Qt;Creative+front-ends+with+React+%26+Tailwind;Turning+ideas+into+working+products;Open+to+internships+%26+freelance+work" alt="Typing SVG" />
-</a>
+<img src="assets/marquee.svg" alt="Skills" width="100%"/>
 
-<br/><br/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshiig-12&label=Profile%20Views&color=8b5cf6&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/harshiig-12?style=for-the-badge&logo=github&color=6d28d9)
